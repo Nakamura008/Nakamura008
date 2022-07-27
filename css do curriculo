@@ -1,0 +1,45 @@
+#header {
+    background-color: goldenrod;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+}
+#nameAndTitle {
+    background-color: white;
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+#nameAndTitle h1, h2 {
+    margin: 0;
+}
+#sidebar {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#container {
+    display: grid;
+    grid-template-columns: 30% auto;
+    grid-column-gap: 20px;
+}
+#sidebar, #content {
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+.card h3 {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.card {
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid rgb(199, 187, 187);
+    border-radius: 15px;
+    padding: 20px;
+}
+#content {
+  font-family: 'Courier New', Courier, monospace;
+  border: 1px solid rgb(199, 187, 187);
+  border-radius: 15px;
+  padding: 20px;
+}
