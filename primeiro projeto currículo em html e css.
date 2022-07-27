@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Curriculum</title>
+</head>
+<body>
+    <div id="header">
+        <div id="nameAndTitle">
+        <h1>Yago Santos Apolinario</h1>
+        <h2>Técnico de Informática</h2>
+        </div>
+    </div>
+    <div id="content">
+        <h3>SOBRE MIM:</h3>
+        <p>Desejo fazer parte do time da empresa oferecendo o melhor. Sou uma pessoa muito dedicada e comprometida com as atribuições que são dadas a mim.</p>  
+    </div>
+    <div id="container">
+    </div>
+        <div id="sidebar">
+            <div class="card">
+                <h3>CONTATO:</h3>
+                <ul>
+                    <li>EMAIL: nakamura008_@hotmail.com </li>
+                    <li>TELEFONE: (22) 98114-4894</li>
+                    <li>CIDADE: Araruama, Rio de Janeiro</li>
+                </ul>
+            </div>
+            <div class="card">
+                <h3>SKILLS:</h3>
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JAVASCRITP</li>
+                </ul>
+            </div>
+            <div class="card">
+                <h3>FORMAÇÃO ACADÊMICA:</h3>
+                <ul>
+                    <li>GESTÃO DE TECNOLOGIA DA INFORMAÇÃO - UCAM</li>
+                    <li>ENSINO MÉDIO COMPLETO - IFOPE EAD</li>
+                </ul>
+            </div>
+            <div class="card">
+                <h3>FORMAÇÃO COMPLEMENTAR:</h3>
+                <ul>
+                    <li>CURSO DE HTML E CSS - DNC GROUP</li>
+                    <li>CURSO TÉCNICO DE MANUTENÇÃO EM CELULARES - MASTER TECNOLOGIA</li>
+                    <li>CURSO TÉCNICO EM INFORMÁTICA - CERTIFICADOS CURSOS ONLINE</li>
+                </ul>
+            </div>
+            <div class="card">
+                <h3>LINKS:</h3>
+                <ul>
+                    <li><a target="_blank" href="https://www.linkedin.com">LINKEDIN</a></li>
+                    <li><a target="_blank" href="https://www.instagram.com">INSTAGRAM</a></li>
+                </ul>
+            </div>
+            <div class="card">
+                <h3>EXPERIÊNCIAS PROFISSIONAIS:</h3>
+                <p>
+                    <b>LOJA MINAS CELULARES - FEV/2021 A JAN/2022</b><br>
+                    <ul>
+                        <li>TÉCNICO DE MANUTENÇÃO EM CELULARES</li>
+                    </ul>
+                    <p>
+                        <b>REDE ONLINE CELULAR - AGO/2020 A JAN/2021</b><br>
+                        <ul>
+                            <li>TÉCNICO DE MANUTENÇÃO EM CELULARES</li>
+                        </ul>
+                        <p>
+                            <b>PLATAFORMA GEEK - MAR/2018 A MAI/2019</b><br>
+                            <ul>
+                                <li>BALCONISTA/VENDEDOR</li>
+                            </ul>
+                            <P>
+                                <b>LORAC PEÇAS E SUPRIMENTOS DE INFORMÁTICA - JUL/2014 A FEV/2016</b><br>
+                                <ul>
+                                    <li>AUXILIAR TÉCNICO DE INFORMÁTICA</li>
+                                </ul>
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>
